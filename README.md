@@ -2,7 +2,7 @@
 
 ![EZ Lattice Free in action](sample.png)
 
-A Blender addon for quickly creating a lattice around selected vertices for fast and easy shape editing.
+A Blender addon for quickly creating a lattice around selected object for fast and easy shape editing.
 
 ## Description
 
